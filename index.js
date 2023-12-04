@@ -1,9 +1,3 @@
-// Poor
-// Fair
-// Good
-// Great
-// Perfect
-
 import data from './data.json' assert { type: 'json' };
 
 const l = (what) => document.querySelector(what);
